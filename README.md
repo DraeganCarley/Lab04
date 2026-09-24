@@ -27,11 +27,3 @@ Summarize your learnings from the lab here.
 
 
 
-Y = (~A & ~B & ~C & D) |
-    (~A & ~B & C & ~D) |
-    (~A & ~B & C & D) |
-    (~A & B & ~C & ~D) |
-    (~A & B & C & ~D) |
-    (A & ~B & C & ~D) |
-    (A & B & ~C & ~D) |
-    (A & B & C & ~D)
